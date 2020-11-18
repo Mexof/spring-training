@@ -13,6 +13,7 @@
         <module>jdbc</module>
         <module>jpa</module>
         <module>data</module>
+        <module>mongo</module>
     </modules>
 
     <parent>
