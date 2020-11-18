@@ -12,6 +12,7 @@
     <modules>
         <module>jdbc</module>
         <module>jpa</module>
+        <module>data</module>
     </modules>
 
     <parent>
