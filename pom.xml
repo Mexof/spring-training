@@ -15,6 +15,7 @@
         <module>data</module>
         <module>mongo</module>
         <module>webflux</module>
+        <module>batch</module>
     </modules>
 
     <parent>
